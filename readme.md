@@ -19,4 +19,4 @@ Reach me here -
 
 Infomation Of My Discord Bot ~
 
-[![Discord Bots](https://top.gg/api/widget/owner/806070943243436063.svg?noavatar=true)](https://top.gg/bot/806070943243436063)   |   [![Discord Bots](https://top.gg/api/widget/status/806070943243436063.svg?noavatar=true)](https://top.gg/bot/806070943243436063)   |   [![Discord Bots](https://top.gg/api/widget/upvotes/806070943243436063.svg?noavatar=true)](https://top.gg/bot/806070943243436063)
+[![Discord Bots](https://top.gg/api/widget/owner/806070943243436063.svg?noavatar=true)](https://top.gg/bot/806070943243436063)     [![Discord Bots](https://top.gg/api/widget/status/806070943243436063.svg?noavatar=true)](https://top.gg/bot/806070943243436063)      [![Discord Bots](https://top.gg/api/widget/upvotes/806070943243436063.svg?noavatar=true)](https://top.gg/bot/806070943243436063)
