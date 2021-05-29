@@ -19,4 +19,5 @@ typescript(kinda)
 3) an api for discord bots
 4) node js package for discord bots
 
-##
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Socks2111&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
