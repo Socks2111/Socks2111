@@ -20,4 +20,8 @@ typescript(kinda)
 4) node js package for discord bots
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Socks2111&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Socks2111&count_private=true&sow_icons=true&theme=radical" align="center" /></div>  
+
+
+## Somemore Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socks2111&layout=compact&theme=radical" align="center" /></div>
