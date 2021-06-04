@@ -12,7 +12,7 @@ css,
 javascript,    
 typescript(kinda)
 
-## current projects
+## Current Projects
 
 1) Obedient Raccoon Discord Bot
 2) a information providing website
