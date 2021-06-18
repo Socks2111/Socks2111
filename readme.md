@@ -10,7 +10,9 @@ languages i know in coding
 html,                    
 css,  
 javascript,    
-typescript(kinda)
+typescript,
+pug,
+python
 
 ## Current Projects
 
