@@ -16,10 +16,8 @@ python
 
 ## Current Projects
 
-1) Obedient Raccoon Discord Bot
-2) a information providing website
-3) an api for discord bots
-4) node js package for discord bots
+1) My Discord Bot
+2) a small chatting website with react.js
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Socks2111&count_private=true&sow_icons=true&theme=radical" align="center" /></div>  
