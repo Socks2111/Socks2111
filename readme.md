@@ -12,7 +12,8 @@ css,
 javascript,    
 typescript,          
 pug,        
-python       
+python       ,
+php
 
 ## Current Projects
 
