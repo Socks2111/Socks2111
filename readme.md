@@ -1,7 +1,6 @@
 ## 👀 
 
-hey there i m socks, full stack developer
-i m a noob web developer 
+hey there i m socks, full stack developer noob web developer 
 
 ## About Me
 
