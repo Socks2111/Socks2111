@@ -19,6 +19,9 @@ php
 1) My Discord Bot
 2) a small chatting website with react.js
 
+## Github Commits Stats  
+<div align="center"><img src="https://github.com/Socks2111/Socks2111/blob/output/github-contribution-grid-snake.gif" align="center" /></div>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Socks2111&count_private=true&sow_icons=true&theme=radical" align="center" /></div>  
 
