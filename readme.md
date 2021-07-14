@@ -12,7 +12,9 @@ javascript,
 typescript,          
 pug,        
 python,                           
-php
+php,              
+reactjs,         
+hbs    
 
 ## Current Projects
 
