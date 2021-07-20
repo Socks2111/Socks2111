@@ -14,8 +14,7 @@ pug,
 react,                           
 angular,                    
 python,                           
-php,              
-reactjs,         
+php,                  
 hbs    
 
 ## Current Projects
