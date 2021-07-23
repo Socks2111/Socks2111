@@ -31,3 +31,6 @@ hbs
 
 ## Somemore Stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Socks2111&layout=compact&theme=radical" align="center" /></div>
+
+## Extra cheesy Stats
+<div align="center"><img src="https://metrics.lecoq.io/Socks2111?template=classic&config.timezone=Asia%2FCalcutta" align="center" /></div>
