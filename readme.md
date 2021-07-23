@@ -1,21 +1,22 @@
+## About Me
+
 👀 👋
 
 hey there i m Socks, full stack noob web developer !
 
-## About Me
+#
+`languages i know in coding `
 
-languages i know in coding 
-
-html,                    
-css,  
-javascript,    
-typescript,          
-pug,                   
-react,                           
-angular,                    
-python,                           
-php,                  
-hbs    
+Html                    
+Css  
+JavaScript    
+TypeScript          
+Pug                   
+React                           
+Angular                    
+Python                           
+Php                  
+Hbs    
 
 ## Current Projects
 
