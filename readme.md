@@ -47,10 +47,6 @@ Hbs
 <img border="0" alt="W3Schools" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="64">
 </a>
 &nbsp;
-<a href="https://snapchat.com/add/socks6582">
-<img border="0" alt="W3Schools" src="https://edent.github.io/SuperTinyIcons/images/svg/snapchat.svg" width="64">
-</a>
-&nbsp;
 <a href="mailto:hello@socks2111.ga">
 <img border="0" alt="W3Schools" src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" width="64">
 </a>
