@@ -67,3 +67,6 @@ Hbs
 
 ## Extra cheesy Stats
 <div align="center"><img src="https://metrics.lecoq.io/Socks2111?template=classic&config.timezone=Asia%2FCalcutta" align="center" /></div>
+
+## Graph Stats 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=socks2111&show_icons=true&theme=radical&count_private=true&include_all_commits=true</div>
